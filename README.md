@@ -1,5 +1,5 @@
 # WebAutomation_Project
-this is project demonstarting hybrid framework
-The code is based on maven 
+This is project demonstarting hybrid framework using selenium with java 
+
 
 
